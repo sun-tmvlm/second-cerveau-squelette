@@ -28,6 +28,11 @@ Voir `ORGANISATION-AGENTS.md` : un agent principal, des agents de fonction, un a
 
 Voir `modeles/`. Cinq rubriques, toujours les mêmes : Mission, Cadre, Étapes, Où on en est, Key Notes.
 
+## Exemple et flux
+
+- `exemples/fiche-mission-exemple.md` : une fiche remplie, entièrement fictive.
+- `docs/flux-d-une-mission.md` : le parcours d'une mission, du cadrage à la clôture, avec les trois points de contrôle humains.
+
 ## Ce que ce dépôt ne contient pas
 
 Aucun nom de client, de candidat ou d'employeur, aucun chiffre d'activité, aucun identifiant. Les procédures réutilisables (skills) vivent hors du dossier de données, dans la configuration de l'agent.
